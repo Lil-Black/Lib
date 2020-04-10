@@ -9,7 +9,7 @@
 [CG Textures](http://www.cgtextures.com/)
 
 # Mesh Edition
-[Normal Pianter](https://github.com/unity3d-jp/NormalPainter)  F
+[Normal Pianter](https://github.com/unity3d-jp/NormalPainter)  
 [Vertex Paint](https://github.com/slipster216/VertexPaint)  
 [Mikk Tangent Space](https://github.com/mmikk/MikkTSpace)
 
